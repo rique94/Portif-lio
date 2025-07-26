@@ -33,7 +33,7 @@
 /* corpo */
     main {
         height: 100%;
-        display: flex;
+        flex: 1;
     }
     .container {
         display: flex;
